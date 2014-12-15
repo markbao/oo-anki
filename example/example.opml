@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <title>example</title>
+    <expansionState></expansionState>
+  </head>
+  <body>
+    <outline text="What is the need for shared reality driven by?" Answer="Driven by uncertainty.&#10;&#10;The more uncertain we are, the more we need to turn to others"/>
+    <outline text="What does shared reality do to subjective experiences?" Answer="It makes them feel objective"/>
+    <outline text="What does shared reality establish in terms of representations of the world?" Answer="Shared reality establishes reliability and validity"/>
+  </body>
+</opml>
